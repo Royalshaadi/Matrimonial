@@ -48,7 +48,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/download1-2000x3571-86.jpg",
-            "bgColor": "#c21d00",
+            "bgColor": "#b92107",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -236,7 +236,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "bgColor": "#20d91d",
+            "bgColor": "#743978",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
