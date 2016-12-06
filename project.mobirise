@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Matrimonial",
-    "currentPage": "Royal Shaadi",
+    "currentPage": "Matrimonial",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -18,7 +18,7 @@
     "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
-    "Royal Shaadi": {
+    "Matrimonial": {
       "settings": {
         "main": true,
         "title": "",
@@ -46,10 +46,10 @@
           "_anchor": "header1-0",
           "_params": {
             "parallax": true,
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/download1-2000x3571-86.jpg",
-            "bgColor": "#fff8e0",
-            "bgColorRadio": false,
+            "bgColor": "#c21d00",
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -65,7 +65,7 @@
           },
           "title": "Royal Shaadi",
           "text": "<b><i>Connecting Hearts!</i></b>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning-outline btn-warning\" href=\"https://Royalshaadi,in/register.php\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Register Free</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning-outline btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Member Login</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning-outline btn-warning\" href=\"https://royalshaadi.in/quicksearch.php\" data-toolbar=\"-mbrBtnMove\">Quick &nbsp; Search</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning-outline btn-warning\" href=\"Royal Shaadi#header4-1\" data-toolbar=\"-mbrBtnMove\">Free Franchisee</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning-outline btn-warning\" href=\"Royal Shaadi#header1-7\" data-toolbar=\"-mbrBtnMove\">Legal Desclaimer</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning-outline btn-warning\" href=\"Royal Shaadi#form1-a\" data-toolbar=\"-mbrBtnMove\">Contact Us</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning-outline btn-warning\" href=\"https://Royalshaadi,in/register.php\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Register Free</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning-outline btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Member Login</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning-outline btn-warning\" href=\"https://royalshaadi.in/quicksearch.php\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Quick &nbsp; Search</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning-outline btn-warning\" href=\"Royal Shaadi#header4-1\" data-toolbar=\"-mbrBtnMove\">Free Franchisee</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning-outline btn-warning\" href=\"Royal Shaadi#header1-7\" data-toolbar=\"-mbrBtnMove\">Legal Desclaimer</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning-outline btn-warning\" href=\"Royal Shaadi#form1-a\" data-toolbar=\"-mbrBtnMove\">Contact Us</a> "
         },
         {
           "_inherit": "header1",
@@ -168,7 +168,7 @@
             }
           },
           "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Home</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://royalshaadi.in/register.php\" target=\"_blank\">Register Free</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://royalshaadi.in/memberlogin.php\" target=\"_blank\">Member Login</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://mobirise.com/\" target=\"_blank\">Quick &nbsp;Search&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"Royal Shaadi#header4-1\">Free Franchisee</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://mobirise.com/\">Legal Desclaimer</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"Royal Shaadi#form1-a\">Contact Us</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Home</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://royalshaadi.in/register.php\" target=\"_blank\">Register Free</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://royalshaadi.in/memberlogin.php\" target=\"_blank\">Member Login</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://mobirise.com/\" target=\"_blank\">Quick &nbsp;Search&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"Royal Shaadi#header4-1\">Free Franchisee</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://mobirise.com/\">Legal Desclaimer</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"Royal Shaadi#form1-a\">Contact Us</a></li>"
         },
         {
           "alias": "purity/components",
