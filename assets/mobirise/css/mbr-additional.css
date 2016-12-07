@@ -22,13 +22,14 @@
 }
 #header4-1 P {
   text-align: center;
+  font-size: 15px;
 }
 #header4-1 H1 {
   text-align: center;
 }
 #header4-1 I {
   text-align: center;
-  font-size: 36px;
+  font-size: 22px;
   font-family: 'Oswald', sans-serif;
 }
 #header4-1 .btn {
@@ -36,6 +37,7 @@
 }
 #header4-1 B {
   color: #091d2e;
+  font-size: 18px;
 }
 #dropdown-menu-6 .hide-buttons [data-button] {
   display: none !important;

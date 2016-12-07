@@ -81,14 +81,15 @@
           "_name": "header4",
           "_styles": {
             "P": {
-              "text-align": "center"
+              "text-align": "center",
+              "font-size": "15px"
             },
             "H1": {
               "text-align": "center"
             },
             "I": {
               "text-align": "center",
-              "font-size": "36px",
+              "font-size": "22px",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
@@ -97,7 +98,8 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
             "B": {
-              "color": "#091d2e"
+              "color": "#091d2e",
+              "font-size": "18px"
             }
           },
           "_anchor": "header4-1",
