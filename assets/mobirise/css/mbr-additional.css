@@ -4,12 +4,19 @@
 
 
 
+
+
+
 #header1-0 H1 {
   color: #0275d8;
   font-size: 36px;
 }
 #header1-0 I {
   color: #f1c050;
+}
+#header1-0 .btn {
+  font-family: 'Oswald', sans-serif;
+  font-size: 15px;
 }
 #header4-1 P {
   text-align: center;
@@ -35,18 +42,23 @@
 #dropdown-menu-6 .dropdown-item {
   font-size: 1em;
   color: #000000;
+  font-family: 'Oswald', sans-serif;
 }
 #dropdown-menu-6 .navbar,
 #dropdown-menu-6 .dropdown-menu {
-  background: #0275d8;
+  background: #002081;
 }
 #dropdown-menu-6 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
 #dropdown-menu-6 .dropdown-menu a:hover,
 #dropdown-menu-6 .dropdown-menu a:focus {
-  background: #026ac4;
+  background: #001b6d;
 }
 #dropdown-menu-6 .navbar-toggler {
   color: #000000;
+}
+#dropdown-menu-6 .btn {
+  font-family: 'Oswald', sans-serif;
+  font-size: 13px;
 }
 #header1-7 .btn {
   font-family: 'Oswald', sans-serif;
