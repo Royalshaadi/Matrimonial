@@ -40,6 +40,9 @@
   color: #091d2e;
   font-size: 18px;
 }
+#header4-1 SPAN {
+  font-size: 18px;
+}
 #dropdown-menu-6 .hide-buttons [data-button] {
   display: none !important;
 }

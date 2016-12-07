@@ -101,6 +101,9 @@
             "B": {
               "color": "#091d2e",
               "font-size": "18px"
+            },
+            "SPAN": {
+              "font-size": "18px"
             }
           },
           "_anchor": "header4-1",
