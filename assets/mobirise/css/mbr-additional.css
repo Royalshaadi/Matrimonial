@@ -1,4 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
 
 
 
@@ -14,7 +15,7 @@
   font-size: 36px;
 }
 #header1-0 I {
-  color: #f1c050;
+  color: #d8d4d1;
 }
 #header1-0 .btn {
   font-family: 'Oswald', sans-serif;
@@ -28,9 +29,9 @@
   text-align: center;
 }
 #header4-1 I {
-  text-align: center;
-  font-size: 22px;
-  font-family: 'Oswald', sans-serif;
+  text-align: right;
+  font-size: 20px;
+  font-family: 'Lato', sans-serif;
 }
 #header4-1 .btn {
   font-family: 'Oswald', sans-serif;
@@ -38,7 +39,7 @@
 }
 #header4-1 B {
   color: #091d2e;
-  font-size: 18px;
+  font-size: 16px;
 }
 #header4-1 SPAN {
   font-size: 18px;
@@ -73,7 +74,11 @@
   font-size: 14px;
 }
 #header1-7 I {
-  color: #0275d8;
+  color: #8f99af;
+  font-size: 25px;
+}
+#header1-7 P {
+  color: #fff8e0;
 }
 #form1-a .mbr-section-title {
   color: #d5f4f0;

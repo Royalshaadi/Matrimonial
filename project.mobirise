@@ -40,7 +40,7 @@
               "font-size": "36px"
             },
             "I": {
-              "color": "#f1c050"
+              "color": "#d8d4d1"
             },
             ".btn": {
               "font-family": "'Oswald', sans-serif",
@@ -53,7 +53,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/download1-2000x3571-86.jpg",
-            "bgColor": "#b92107",
+            "bgColor": "#a41800",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -70,7 +70,7 @@
           },
           "title": "<a href=\"www.royalshaadi.in\"><b>Royal Shaadi</b></a>",
           "text": "<b><i>Connecting Hearts!</i></b>",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning-outline btn-warning\" href=\"http://royalshaadi.in\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Register Free</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning-outline btn-warning\" href=\"http://royalshaadi.in\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Member Login</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning-outline btn-warning\" href=\"http://royalshaadi.in\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; Quick &nbsp; Search&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning-outline btn-warning\" href=\"Matrimonial#header4-1\" data-toolbar=\"-mbrBtnMove\">Free Franchisee</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning-outline btn-warning\" href=\"Matrimonial#header1-7\" data-toolbar=\"-mbrBtnMove\">Legal Desclaimer</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning-outline btn-warning\" href=\"Matrimonial#form1-a\" data-toolbar=\"-mbrBtnMove\">Contact US</a>  "
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"http://royalshaadi.in\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Home</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"http://royalshaadi.in\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Register Free</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"http://royalshaadi.in\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Member Login</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"http://royalshaadi.in\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; Quick &nbsp; Search&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"Matrimonial#header4-1\" data-toolbar=\"-mbrBtnMove\">Free Franchisee</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"Matrimonial#header1-7\" data-toolbar=\"-mbrBtnMove\">Legal Desclaimer</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"Matrimonial#form1-a\" data-toolbar=\"-mbrBtnMove\">Contact US</a>  "
         },
         {
           "_inherit": "header1",
@@ -88,10 +88,10 @@
               "text-align": "center"
             },
             "I": {
-              "text-align": "center",
-              "font-size": "22px",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+              "text-align": "right",
+              "font-size": "20px",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
             },
             ".btn": {
               "font-family": "'Oswald', sans-serif",
@@ -100,7 +100,7 @@
             },
             "B": {
               "color": "#091d2e",
-              "font-size": "18px"
+              "font-size": "16px"
             },
             "SPAN": {
               "font-size": "18px"
@@ -111,7 +111,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-2.jpg",
-            "bgColor": "#4397af",
+            "bgColor": "#0275d8",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -190,7 +190,7 @@
             }
           },
           "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"http://royalshaadi.in\" target=\"_blank\">Register Free</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"http://royalshaadi.in\" target=\"_blank\">Member Login</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"http://royalshaadi.in\" target=\"_blank\">Quick &nbsp;Search&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"Royal Shaadi#header4-1\">Free Franchisee</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"Matrimonial#header1-7\">Legal Desclaimer</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"Royal Shaadi#form1-a\">Contact Us</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"http://royalshaadi.in\" target=\"_blank\">Home</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"http://royalshaadi.in\" target=\"_blank\">Register Free</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"http://royalshaadi.in\" target=\"_blank\">Member Login</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"http://royalshaadi.in\" target=\"_blank\">Quick &nbsp;Search&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"Royal Shaadi#header4-1\">Free Franchisee</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"Matrimonial#header1-7\">Legal Desclaimer</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"Royal Shaadi#form1-a\">Contact Us</a></li>"
         },
         {
           "alias": "purity/components",
@@ -205,7 +205,11 @@
               "font-size": "14px"
             },
             "I": {
-              "color": "#0275d8"
+              "color": "#8f99af",
+              "font-size": "25px"
+            },
+            "P": {
+              "color": "#fff8e0"
             }
           },
           "_anchor": "header1-7",
@@ -213,7 +217,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/download1-2000x3571-52.jpg",
-            "bgColor": "#5b4803",
+            "bgColor": "#27355e",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -229,7 +233,7 @@
             "showArrow": false
           },
           "title": "<br><div><br></div><div><br></div>",
-          "text": "<b><i>Legal Desclaimer:</i></b><br>Abuse of photos , personal data &amp; ideas in Royalshaadi.in will attract legal action towards the abuser according to the IT act.<br>This Program Protected by Copyright law. Unauthorized<br>reproduction of this program, or any portion of it, may result severecivil and criminal penalties, and will be prosecuted to the maximum extent possible under the law.<br>",
+          "text": "<b><i>Legal Desclaimer:</i></b><br>Abuse of photos , personal data &amp; franchisee ideas in Royalshaadi.in will attract legal action towards the abuser according to the IT act.<br>This Program Protected by Copyright law. Unauthorized<br>reproduction of this program, or any portion of it, may result severecivil and criminal penalties, and will be prosecuted to the maximum extent possible under the law.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"Matrimonial#header1-0\" data-toolbar=\"-mbrBtnMove\">&nbsp;&lt; Back &gt;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"Matrimonial#header1-0\" data-toolbar=\"-mbrBtnMove\">@ Copyright 2015. All rights reserved at Royalshaadi.in</a> "
         },
         {
@@ -264,7 +268,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "bgColor": "#743978",
+            "bgColor": "#002920",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
