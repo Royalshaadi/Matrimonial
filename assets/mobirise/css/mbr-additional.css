@@ -32,6 +32,7 @@
   text-align: right;
   font-size: 20px;
   font-family: 'Lato', sans-serif;
+  color: #fff8e0;
 }
 #header4-1 .btn {
   font-family: 'Oswald', sans-serif;
@@ -84,15 +85,16 @@
   color: #d5f4f0;
   text-align: right;
   font-family: 'Oswald', sans-serif;
-  font-size: 25px;
+  font-size: 18px;
 }
 #form1-a .btn {
   font-family: 'Oswald', sans-serif;
+  font-size: 13px;
 }
 #form1-a .mbr-section-title B {
   text-align: right;
   font-family: 'Oswald', sans-serif;
-  font-size: 18px;
+  font-size: 17px;
 }
 #contacts1-e SPAN {
   text-align: center;
