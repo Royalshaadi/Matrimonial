@@ -52,7 +52,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/download1-2000x3571-86.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/image-2000x3000-81.png",
             "bgColor": "#a41800",
             "bgColorRadio": true,
             "bgVideo": {
