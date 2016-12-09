@@ -17,7 +17,7 @@
   font-size: 36px;
 }
 #header1-0 I {
-  color: #d8d4d1;
+  color: #0275d8;
 }
 #header1-0 .btn {
   font-family: 'Oswald', sans-serif;
@@ -25,7 +25,7 @@
 }
 #header4-1 P {
   text-align: center;
-  font-size: 19px;
+  font-size: 16px;
   font-family: 'Playfair Display', sans-serif;
 }
 #header4-1 H1 {
@@ -39,15 +39,15 @@
 }
 #header4-1 .btn {
   font-family: 'Oswald', sans-serif;
-  font-size: 15px;
+  font-size: 13px;
 }
 #header4-1 B {
   color: #c8eeec;
-  font-size: 21px;
+  font-size: 18px;
   font-family: 'Oswald', sans-serif;
 }
 #header4-1 SPAN {
-  font-size: 18px;
+  font-size: 16px;
 }
 #dropdown-menu-6 .hide-buttons [data-button] {
   display: none !important;
@@ -72,11 +72,11 @@
 }
 #dropdown-menu-6 .btn {
   font-family: 'Oswald', sans-serif;
-  font-size: 13px;
+  font-size: 14px;
 }
 #header1-7 .btn {
   font-family: 'Oswald', sans-serif;
-  font-size: 14px;
+  font-size: 11px;
 }
 #header1-7 I {
   color: #8f99af;
@@ -84,6 +84,7 @@
 }
 #header1-7 P {
   color: #fff8e0;
+  text-align: left;
 }
 #form1-a .mbr-section-title {
   color: #d5f4f0;
@@ -109,5 +110,5 @@
 #contacts1-e P {
   color: #f1c050;
   font-family: 'Oswald', sans-serif;
-  font-size: 13px;
+  font-size: 15px;
 }

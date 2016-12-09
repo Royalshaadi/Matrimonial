@@ -8,7 +8,7 @@
       "styling": {}
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 16,
+    "uniqCompNum": 22,
     "versionPublish": "3.10",
     "favicon": "@PROJECT_PATH@/assets/images/appicon-128x128-47.png",
     "noImageResize": "",
@@ -40,7 +40,7 @@
               "font-size": "36px"
             },
             "I": {
-              "color": "#d8d4d1"
+              "color": "#0275d8"
             },
             ".btn": {
               "font-family": "'Oswald', sans-serif",
@@ -82,7 +82,7 @@
           "_styles": {
             "P": {
               "text-align": "center",
-              "font-size": "19px",
+              "font-size": "16px",
               "font-family": "'Playfair Display', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
             },
@@ -99,16 +99,16 @@
             ".btn": {
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "15px"
+              "font-size": "13px"
             },
             "B": {
               "color": "#c8eeec",
-              "font-size": "21px",
+              "font-size": "18px",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
             "SPAN": {
-              "font-size": "18px"
+              "font-size": "16px"
             }
           },
           "_anchor": "header4-1",
@@ -132,8 +132,8 @@
             "showArrow": false
           },
           "title": "<b><i>Free Franchisee Offer</i></b>",
-          "text": "<b>www.royalshaadi.in</b><br>Connecting Hearts!<br><br>Royalshaadi.in is in process of appointing Super franchisee, Franchisee &amp; Agents in free of cost at different cities in INDIA.<br>Growing Indian Population Presents huge opportunity for starting a matrimonial website franchisee.<br>India presents a huge growing young population with wide Cultural, Religion &amp; Geography diversity. India &amp; Sub Continent presents a huge Business Opportunity.<br><br><b>Seven Reasons: Why you should start matrimonial Business Franchisee.</b><br><span style=\"font-size: 1.25rem; line-height: 1.5;\">* Big Problem for find out life partner</span><br>* Big Problem for Collecting Horoscopes.<br>* Cheating by marriage brokers<br>* Huge Market<br>* Wide Geography<br>* Complicated cast system<br>* Wide Scope<br><br><b>Advantage of Become Franchisee</b><br>* Revolutionary business concept - I st time in India<br>* Working under the brand name of Royalshaadi.in will give you good exposures in the market.<br>* Multiple Revenue, Scope of Earning, Low cost business operation, low customer support required , Potential of bulk/individual Deals<br>* Non stop, long life, High Demand &amp; Completely online business Concept.<br>* You can add unlimited branches in under your one franchisee account in free of cost.<br>* You can check day / week / month wise sale &amp; Collection through your branches . Ex: Can check quantity of profile print sale /quantity of new profile registration / quantity of upgrade to premium etc<br>* In login page get business promotional links in under your user name / Business Code for promoting this business for boosting your income<br>* If you have already profiles with you / If any customer directly visit at your shop for register, you can add photo , bio-data &amp; horoscope at free of cost<br>* Advanced Profile Searching Facility ……….Boys | Girls<br>* Get upto 10 type income through our franchisee. Enjoy &amp; earn Unlimited income per month<br>* Simply you can earn above 20,000/- per month<br>* Complete transparency in relation to business payouts<br>* You can Dowload / Print the available data’s with us and take address and phone no. email id for matchin &nbsp;your clients<br>* A glow sign / flex board is to be put at the franchisee office at the cost of the franchisee itself but artwork will be provided by Royalshaadi.in .You can download Design of signed board for flex printing in free of cost. Available Board size: 5*2 feet , 5*3 feet , 7*3 feet, 4*3 feet<br>* Will deduct the cost of each Profile, From your Subscription amount at the time of taking download / print the profile for sale to the customer.<br>* You can Choose &amp; subscribe Suitable Subscription Amount, depending upon your sales of print out.<br>* You Can Expect special season Offers like Product Gifts / Price Discounts / Gift Vouchers / Tour packages etc.. for all franchisee depending on Business valium.<br>* This franchisee Suitable for internet café / travels agents / chitty firm / duty paid shop / Akshaya Centers / Computer institute / Photostat shops / Studios / Franchisee Outlets / Commission Agents / Finance or loans marketing firms / Consultancy Firm / Real estate firm Etc…<br>* Can Upload marriage or Engagement photos in free of cost.<br><br><b>The Requirements to Become Franchise:</b><br>* You must have computer and Printer<br>You must have internet connection to your computer<br>* You must have telephone number<br>* You Must have fix a sign / flex board of Royalshaadi.in (You can download Design of signed board in free of cost).<br>* you must have a small size office in town area<br>* You have to accept our terms and conditions<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"Matrimonial#header1-0\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&lt; Back &gt;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://royalshaadi.in/franchisee.php\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Apply Now!</a> "
+          "text": "<b>Royal Shaadi</b><br>Connecting Hearts!<br><br>Royalshaadi.in is in process of appointing Super franchisee, Franchisee &amp; Agents in free of cost at different cities in INDIA.<br>Growing Indian Population Presents huge opportunity for starting a matrimonial website franchisee.<br>India presents a huge growing young population with wide Cultural, Religion &amp; Geography diversity. India &amp; Sub Continent presents a huge Business Opportunity.<br><br><b>Seven Reasons: Why you should start matrimonial Business Franchisee.</b><br><span style=\"font-size: 1.25rem; line-height: 1.5;\">* Big Problem for find out life partner</span><br>* Big Problem for Collecting Horoscopes.<br>* Cheating by marriage brokers<br>* Huge Market<br>* Wide Geography<br>* Complicated cast system<br>* Wide Scope<br><br><b>Advantage of Become Franchisee</b><br>* Revolutionary business concept - I st time in India<br>* Working under the brand name of Royalshaadi.in will give you good exposures in the market.<br>* Multiple Revenue, Scope of Earning, Low cost business operation, low customer support required , Potential of bulk/individual Deals<br>* Non stop, long life, High Demand &amp; Completely online business Concept.<br>* You can add unlimited branches in under your one franchisee account in free of cost.<br>* You can check day / week / month wise sale &amp; Collection through your branches . Ex: Can check quantity of profile print sale /quantity of new profile registration / quantity of upgrade to premium etc<br>* In login page get business promotional links in under your user name / Business Code for promoting this business for boosting your income<br>* If you have already profiles with you / If any customer directly visit at your shop for register, you can add photo , bio-data &amp; horoscope at free of cost<br>* Advanced Profile Searching Facility ……….Boys | Girls<br>* Get upto 10 type income through our franchisee. Enjoy &amp; earn Unlimited income per month<br>* Simply you can earn above 20,000/- per month<br>* Complete transparency in relation to business payouts<br>* You can Dowload / Print the available data’s with us and take address and phone no. email id for matchin &nbsp;your clients<br>* A glow sign / flex board is to be put at the franchisee office at the cost of the franchisee itself but artwork will be provided by Royalshaadi.in .You can download Design of signed board for flex printing in free of cost. Available Board size: 5*2 feet , 5*3 feet , 7*3 feet, 4*3 feet<br>* Will deduct the cost of each Profile, From your Subscription amount at the time of taking download / print the profile for sale to the customer.<br>* You can Choose &amp; subscribe Suitable Subscription Amount, depending upon your sales of print out.<br>* You Can Expect special season Offers like Product Gifts / Price Discounts / Gift Vouchers / Tour packages etc.. for all franchisee depending on Business valium.<br>* This franchisee Suitable for internet café / travels agents / chitty firm / duty paid shop / Akshaya Centers / Computer institute / Photostat shops / Studios / Franchisee Outlets / Commission Agents / Finance or loans marketing firms / Consultancy Firm / Real estate firm Etc…<br>* Can Upload marriage or Engagement photos in free of cost.<br><br><b>The Requirements to Become Franchise:</b><br>* You must have computer and Printer<br>You must have internet connection to your computer<br>* You must have telephone number<br>* You Must have fix a sign / flex board of Royalshaadi.in (You can download Design of signed board in free of cost).<br>* you must have a small size office in town area<br>* You have to accept our terms and conditions<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"Matrimonial#header1-0\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Back&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://royalshaadi.in/franchisee.php\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Apply Now!</a> "
         },
         {
           "_styles": {
@@ -159,7 +159,7 @@
             ".btn": {
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "13px"
+              "font-size": "14px"
             }
           },
           "_tags": [
@@ -207,14 +207,15 @@
             ".btn": {
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "14px"
+              "font-size": "11px"
             },
             "I": {
               "color": "#8f99af",
               "font-size": "25px"
             },
             "P": {
-              "color": "#fff8e0"
+              "color": "#fff8e0",
+              "text-align": "left"
             }
           },
           "_anchor": "header1-7",
@@ -282,7 +283,7 @@
             "overlayColor": "#222",
             "showTitle": true
           },
-          "title": "<p>Contact Us &nbsp; &nbsp; &nbsp; &nbsp; <a href=\"Matrimonial#contacts1-e\">Full Address</a><a href=\"#bottom\"></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<b><a href=\"Matrimonial#header1-0\" class=\"text-warning\">Back</a>&nbsp;</b></p>",
+          "title": "<p><b>Contact</b> <b>Us </b>&nbsp; &nbsp;&nbsp;<a href=\"Matrimonial#contacts1-e\" class=\"text-warning\">Full Address</a><a href=\"#bottom\"></a>&nbsp; &nbsp; &nbsp;<a href=\"Matrimonial#header1-0\" class=\"text-warning\">Back</a><b>&nbsp;</b></p>",
           "form": {
             "action": "royalshaadisite@gmail.com",
             "alerts": {
@@ -328,7 +329,7 @@
               "color": "#f1c050",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "13px"
+              "font-size": "15px"
             }
           },
           "_anchor": "contacts1-e",
@@ -360,9 +361,9 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>\nPuthumaa Enterprises<br>\nPeringode Post<br>Palakkad Dt<br>Kerala - 679 535",
-          "text2": "<strong>Contacts</strong><br>\nEmail: info@royalshaadi.in<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Royalshaadisite@gmail.com<br>Phone: (0) 98461 04883<br><br>&nbsp;<br><br><br><br><br><br><br><br><br><span style=\"font-size: 1rem; line-height: 1.5;\">@ Copyright 2015. All rights reserved at &nbsp; &nbsp; Royalshaadi.in</span><br><br><br>",
-          "text3": "<p><strong>Links</strong></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">www.royalshaadi.in</span></p><p><span style=\"font-size: 1rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>&nbsp;&lt;&nbsp;<a href=\"Matrimonial#header1-0\">Back</a>&nbsp;&gt;</b></span></p>"
+          "text1": "<strong>Address</strong><br>\nPuthumaa Enterprises<br>\nPeringode Post<br>Palakkad Dt<br>Kerala - 679 535<br><br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: info@royalshaadi.in<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Royalshaadisite@gmail.com<br>Phone: (0) 98461 04883<br><br>Links<br>www.royalshaadi.in<br><br><br>@ Copyright 2015. All rights reserved at Royalshaadi.in<br>",
+          "text3": "<p><span style=\"line-height: 1.5;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><br></p><p><b style=\"color: rgb(2, 117, 216); font-size: 13px; text-align: center; line-height: 1.5;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&lt;&nbsp;<a href=\"Matrimonial#header1-0\">Back</a>&nbsp;&gt;</b><br></p>"
         }
       ]
     }
