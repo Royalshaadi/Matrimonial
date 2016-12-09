@@ -82,16 +82,18 @@
           "_styles": {
             "P": {
               "text-align": "center",
-              "font-size": "15px"
+              "font-size": "19px",
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
             },
             "H1": {
               "text-align": "center"
             },
             "I": {
               "text-align": "right",
-              "font-size": "20px",
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "23px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "color": "#fff8e0"
             },
             ".btn": {
@@ -100,8 +102,10 @@
               "font-size": "15px"
             },
             "B": {
-              "color": "#091d2e",
-              "font-size": "16px"
+              "color": "#c8eeec",
+              "font-size": "21px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
             "SPAN": {
               "font-size": "18px"
@@ -260,7 +264,8 @@
               "text-align": "right",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "17px"
+              "font-size": "17px",
+              "color": "#fbf2be"
             }
           },
           "_anchor": "form1-a",
@@ -277,7 +282,7 @@
             "overlayColor": "#222",
             "showTitle": true
           },
-          "title": "Contact Us &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;&nbsp;<a href=\"Matrimonial#header1-0\" class=\"text-warning\">Back</a><b>&nbsp;</b>&gt;",
+          "title": "Contact Us &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<b>Full</b>&nbsp;<b>Address</b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<b><a href=\"Matrimonial#header1-0\" class=\"text-warning\">Back</a>&nbsp;</b>",
           "form": {
             "action": "royalshaadisite@gmail.com",
             "alerts": {
@@ -356,7 +361,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>\nPuthumaa Enterprises<br>\nPeringode Post<br>Palakkad Dt<br>Kerala - 679 535",
-          "text2": "<strong>Contacts</strong><br>\nEmail: info@royalshaadi.in<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Royalshaadisite@gmail.com<br>Phone: (0) 98461 04883<br><br><br><span style=\"font-size: 1rem; line-height: 1.5;\">@ Copyright 2015. All rights reserved at &nbsp; &nbsp; Royalshaadi.in</span><br><br><br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: info@royalshaadi.in<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Royalshaadisite@gmail.com<br>Phone: (0) 98461 04883<br><br>&nbsp;<br><br><br><br><br><br><br><br><br><span style=\"font-size: 1rem; line-height: 1.5;\">@ Copyright 2015. All rights reserved at &nbsp; &nbsp; Royalshaadi.in</span><br><br><br>",
           "text3": "<p><strong>Links</strong></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">www.royalshaadi.in</span></p><p><span style=\"font-size: 1rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>&nbsp;&lt;&nbsp;<a href=\"Matrimonial#header1-0\">Back</a>&nbsp;&gt;</b></span></p>"
         }
       ]
