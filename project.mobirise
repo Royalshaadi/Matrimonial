@@ -50,7 +50,13 @@
               "font-size": "14px"
             },
             "B": {
-              "color": "#e6f117"
+              "color": "#edf91a",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "32px"
+            },
+            "P": {
+              "color": "#fbfbfb"
             }
           },
           "_anchor": "header1-0",
@@ -73,8 +79,8 @@
             "showButtons": true,
             "showArrow": false
           },
-          "title": "<b>Royal Shaadi</b>",
-          "text": "<b><i>Connecting Hearts!</i></b>",
+          "title": "<i><b>Royal Shaadi</b></i>",
+          "text": "Connecting Hearts!",
           "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"http://royalshaadi.in\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Register Free</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"http://royalshaadi.in\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Member Login</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"http://royalshaadi.in\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; Quick &nbsp; Search&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"Matrimonial#header4-1\" data-toolbar=\"-mbrBtnMove\">Free Franchisee</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"Matrimonial#header1-7\" data-toolbar=\"-mbrBtnMove\">Legal Desclaimer</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"Matrimonial#form1-a\" data-toolbar=\"-mbrBtnMove\">Contact US</a>  "
         },
         {
@@ -122,7 +128,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-2.jpg",
-            "bgColor": "#44a3f5",
+            "bgColor": "#066fc9",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -154,10 +160,10 @@
               "font-family": "'Oswald', sans-serif"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#2c9dff"
+              "background": "#53acf9"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#1894ff"
+              "background": "#3fa2f8"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -174,7 +180,7 @@
           "_name": "dropdown-menu",
           "_anchor": "dropdown-menu-6",
           "_params": {
-            "bgColor": "#2c9dff",
+            "bgColor": "#53acf9",
             "fontSize": 1,
             "fontName": {
               "name": "Oswald",

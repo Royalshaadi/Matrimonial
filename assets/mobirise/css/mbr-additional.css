@@ -12,6 +12,7 @@
 
 
 
+
 #header1-0 H1 {
   color: #0275d8;
   font-size: 36px;
@@ -24,7 +25,12 @@
   font-size: 14px;
 }
 #header1-0 B {
-  color: #e6f117;
+  color: #edf91a;
+  font-family: 'Oswald', sans-serif;
+  font-size: 32px;
+}
+#header1-0 P {
+  color: #fbfbfb;
 }
 #header4-1 P {
   text-align: left;
@@ -64,12 +70,12 @@
 }
 #dropdown-menu-6 .navbar,
 #dropdown-menu-6 .dropdown-menu {
-  background: #2c9dff;
+  background: #53acf9;
 }
 #dropdown-menu-6 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
 #dropdown-menu-6 .dropdown-menu a:hover,
 #dropdown-menu-6 .dropdown-menu a:focus {
-  background: #1894ff;
+  background: #3fa2f8;
 }
 #dropdown-menu-6 .navbar-toggler {
   color: #000000;
