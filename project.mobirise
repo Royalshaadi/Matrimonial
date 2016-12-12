@@ -38,8 +38,11 @@
           "_name": "header1",
           "_styles": {
             "H1": {
-              "color": "#0275d8",
-              "font-size": "36px"
+              "color": "#cdfa1a",
+              "font-size": "36px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "text-align": "center"
             },
             "I": {
               "color": "#f2f1ed"
@@ -79,7 +82,7 @@
             "showButtons": true,
             "showArrow": false
           },
-          "title": "<i><b>Royal Shaadi</b></i>",
+          "title": "<b>Royal Shaadi</b>",
           "text": "Connecting Hearts!",
           "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"http://royalshaadi.in\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Register Free</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"http://royalshaadi.in\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Member Login</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"http://royalshaadi.in\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; Quick &nbsp; Search&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"Matrimonial#header4-1\" data-toolbar=\"-mbrBtnMove\">Free Franchisee</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"Matrimonial#header1-7\" data-toolbar=\"-mbrBtnMove\">Legal Desclaimer</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"Matrimonial#form1-a\" data-toolbar=\"-mbrBtnMove\">Contact US</a>  "
         },
