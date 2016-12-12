@@ -128,7 +128,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-2.jpg",
-            "bgColor": "#066fc9",
+            "bgColor": "#1786e6",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -286,8 +286,8 @@
           },
           "_anchor": "form1-a",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "4",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
@@ -353,8 +353,8 @@
           },
           "_anchor": "contacts1-e",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
