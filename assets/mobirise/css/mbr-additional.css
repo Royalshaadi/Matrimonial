@@ -51,7 +51,7 @@
 }
 #header4-1 .btn {
   font-family: 'Oswald', sans-serif;
-  font-size: 11px;
+  font-size: 14px;
 }
 #header4-1 B {
   color: #fff8e0;
@@ -89,7 +89,7 @@
 }
 #header1-7 .btn {
   font-family: 'Oswald', sans-serif;
-  font-size: 12px;
+  font-size: 14px;
 }
 #header1-7 I {
   color: #e6f117;
@@ -117,6 +117,9 @@
   font-family: 'Oswald', sans-serif;
   font-size: 17px;
   color: #fbf2be;
+}
+#form1-a .mbr-section-title P {
+  font-size: 18px;
 }
 #contacts1-e SPAN {
   text-align: center;

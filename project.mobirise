@@ -113,7 +113,7 @@
             ".btn": {
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "11px"
+              "font-size": "14px"
             },
             "B": {
               "color": "#fff8e0",
@@ -222,7 +222,7 @@
             ".btn": {
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "12px"
+              "font-size": "14px"
             },
             "I": {
               "color": "#e6f117",
@@ -285,6 +285,9 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "font-size": "17px",
               "color": "#fbf2be"
+            },
+            ".mbr-section-title P": {
+              "font-size": "18px"
             }
           },
           "_anchor": "form1-a",
@@ -301,7 +304,7 @@
             "overlayColor": "#222",
             "showTitle": true
           },
-          "title": "<p><b>Contact</b> <b>Us </b>&nbsp; &nbsp;&nbsp;<a href=\"Matrimonial#contacts1-e\" class=\"text-warning\">Full Address</a><a href=\"#bottom\"></a>&nbsp; &nbsp; &nbsp;<a href=\"Matrimonial#header1-0\" class=\"text-warning\">Back</a><b>&nbsp;</b></p>",
+          "title": "<p><b>Contact</b> <b>Us </b>&nbsp; &nbsp;&nbsp;<a href=\"Matrimonial#contacts1-e\" class=\"text-warning\">Full Address</a><a href=\"#bottom\"></a>&nbsp; &nbsp; &nbsp;<a href=\"Matrimonial#header1-0\" class=\"text-info\">Back</a><b>&nbsp;</b></p>",
           "form": {
             "action": "royalshaadisite@gmail.com",
             "alerts": {
