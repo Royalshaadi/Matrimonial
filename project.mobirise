@@ -122,7 +122,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-2.jpg",
-            "bgColor": "#0884ef",
+            "bgColor": "#cc9416",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -280,12 +280,12 @@
           },
           "_anchor": "form1-a",
           "_params": {
-            "paddingTop": "3",
+            "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "bgColor": "#002920",
+            "bgColor": "#30362e",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
