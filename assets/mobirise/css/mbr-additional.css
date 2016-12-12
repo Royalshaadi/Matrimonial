@@ -17,11 +17,14 @@
   font-size: 36px;
 }
 #header1-0 I {
-  color: #0275d8;
+  color: #b8dfed;
 }
 #header1-0 .btn {
   font-family: 'Oswald', sans-serif;
-  font-size: 15px;
+  font-size: 14px;
+}
+#header1-0 B {
+  color: #f1c050;
 }
 #header4-1 P {
   text-align: center;
