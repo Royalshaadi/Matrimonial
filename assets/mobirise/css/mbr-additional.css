@@ -17,18 +17,18 @@
   font-size: 36px;
 }
 #header1-0 I {
-  color: #b8dfed;
+  color: #f2f1ed;
 }
 #header1-0 .btn {
   font-family: 'Oswald', sans-serif;
   font-size: 14px;
 }
 #header1-0 B {
-  color: #f1c050;
+  color: #e6f117;
 }
 #header4-1 P {
-  text-align: center;
-  font-size: 18px;
+  text-align: left;
+  font-size: 19px;
   font-family: 'Open Sans', sans-serif;
 }
 #header4-1 H1 {
@@ -64,12 +64,12 @@
 }
 #dropdown-menu-6 .navbar,
 #dropdown-menu-6 .dropdown-menu {
-  background: #d9ed71;
+  background: #2c9dff;
 }
 #dropdown-menu-6 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
 #dropdown-menu-6 .dropdown-menu a:hover,
 #dropdown-menu-6 .dropdown-menu a:focus {
-  background: #d4eb5f;
+  background: #1894ff;
 }
 #dropdown-menu-6 .navbar-toggler {
   color: #000000;
@@ -83,15 +83,15 @@
   font-size: 12px;
 }
 #header1-7 I {
-  color: #8f99af;
-  font-size: 25px;
+  color: #e6f117;
+  font-size: 20px;
 }
 #header1-7 P {
   color: #fff8e0;
   text-align: left;
 }
 #header1-7 B {
-  color: #ffca50;
+  color: #fff8e0;
 }
 #form1-a .mbr-section-title {
   color: #d5f4f0;
@@ -115,7 +115,11 @@
   color: #0275d8;
 }
 #contacts1-e P {
-  color: #0275d8;
+  color: #abdbf2;
   font-family: 'Oswald', sans-serif;
-  font-size: 15px;
+  font-size: 18px;
+}
+#contacts1-e STRONG {
+  font-size: 17px;
+  color: #fbf2be;
 }
