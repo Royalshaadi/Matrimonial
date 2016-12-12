@@ -12,7 +12,6 @@
 
 
 
-
 #header1-0 H1 {
   color: #0275d8;
   font-size: 36px;
@@ -116,16 +115,4 @@
   color: #f1c050;
   font-family: 'Oswald', sans-serif;
   font-size: 15px;
-}
-#social-buttons1-t .mbr-section-title {
-  color: #2edf4d;
-  font-size: 18px;
-}
-#social-buttons1-t .mbr-section-title SPAN {
-  font-size: 14px;
-  font-family: 'Oswald', sans-serif;
-}
-#social-buttons1-t .mbr-section-title B {
-  font-size: 13px;
-  color: #0275d8;
 }
