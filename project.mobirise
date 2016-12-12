@@ -13,7 +13,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/appicon-128x128-47.png",
     "noImageResize": "",
     "cookiesAlert": "",
-    "google-analytics": "< Royal Shaadi >",
+    "google-analytics": "Welcome to Royal Shaadi",
     "publishType": "github",
     "publishPath": "@PROJECT_PATH@",
     "ftpLocation": "ftp://@:21",
