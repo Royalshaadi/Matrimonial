@@ -191,7 +191,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/royalshaadi512x512-128x128-96.png",
+              "src": "@PROJECT_PATH@/assets/images/royalshaadi512x512-128x128-15.png",
               "class": "",
               "height": 128,
               "alt": "",
