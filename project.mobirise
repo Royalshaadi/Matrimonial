@@ -8,7 +8,7 @@
       "styling": {}
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 33,
+    "uniqCompNum": 37,
     "versionPublish": "3.10",
     "favicon": "@PROJECT_PATH@/assets/images/appicon-128x128-47.png",
     "noImageResize": "true",
@@ -293,7 +293,7 @@
           "_anchor": "form1-a",
           "_params": {
             "paddingTop": "4",
-            "paddingBottom": "3",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
@@ -360,7 +360,7 @@
           "_anchor": "contacts1-e",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
@@ -387,8 +387,34 @@
             }
           },
           "text1": "<strong>Address</strong><br>\nPuthumaa Enterprises<br>\nPeringode Post<br>Palakkad Dt<br>Kerala - 679 535<br><br>",
-          "text2": "<strong>Contacts</strong><br>\nEmail: info@royalshaadi.in<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Royalshaadisite@gmail.com<br>Phone: (0) 98461 04883<br><br>Links<br><a href=\"http://royalshaadi.in\" target=\"_blank\">http://royalshaadi.in</a><br><br>@ Copyright 2015. All rights reserved at Royalshaadi.in<br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: info@royalshaadi.in<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Royalshaadisite@gmail.com<br>Phone: (0) 98461 04883<br><br>Links<br><a href=\"http://royalshaadi.in\" target=\"_blank\">http://royalshaadi.in</a><br>",
           "text3": "<p style=\"text-align: start; \"><span style=\"text-align: center; font-size: 15px; line-height: 22px;\"><font color=\"#f1c050\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</font></span><b style=\"color: rgb(2, 117, 216); font-size: 13px; text-align: center; line-height: 1.5;\">&nbsp;<a href=\"Matrimonial#header1-0\" class=\"text-warning\">Back</a>&nbsp;</b><br></p>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-10",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "@ Copyright 2015. All rights reserved at Royalshaadi.in",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
         }
       ]
     }
