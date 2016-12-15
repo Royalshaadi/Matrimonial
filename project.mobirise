@@ -396,6 +396,11 @@
             "Theme"
           ],
           "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
           "_anchor": "footer1-10",
           "_params": {
             "paddingTop": "1",
@@ -409,12 +414,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "@ Copyright 2015. All rights reserved at Royalshaadi.in",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            }
-          }
+          "text": "@ Copyright 2015. All rights reserved at Royalshaadi.in"
         }
       ]
     }
