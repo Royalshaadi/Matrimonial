@@ -90,7 +90,7 @@
 }
 #header1-7 .btn {
   font-family: 'Oswald', sans-serif;
-  font-size: 14px;
+  font-size: 12px;
 }
 #header1-7 I {
   color: #e6f117;
@@ -138,4 +138,5 @@
 }
 #footer1-10 P {
   text-align: center;
+  font-size: 14px;
 }
