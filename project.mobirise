@@ -351,7 +351,7 @@
               "color": "#0275d8"
             },
             "P": {
-              "color": "#abdbf2",
+              "color": "#a2eca2",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "font-size": "18px"
@@ -390,8 +390,8 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>\nPuthumaa Enterprises<br>\nPeringode Post<br>Palakkad Dt<br>Kerala - 679 535<br><br>",
-          "text2": "<strong>Contacts</strong><br>\nEmail: info@royalshaadi.in<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Royalshaadisite@gmail.com<br>Phone: (0) 98461 04883<br><br>Links<br><a href=\"http://royalshaadi.in\" target=\"_blank\">http://royalshaadi.in</a><br>",
+          "text1": "<strong>Address</strong><br>\nPuthumaa &nbsp;Enterprises<br>\nPeringode Post, &nbsp;Koottanad<br>Palakkad Dt , &nbsp;Kerala &nbsp;St<br>INDIA - &nbsp;679 535<br><br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: info@royalshaadi.in<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br>Royalshaadisite@gmail.com<br>Phone: (0) 98461 04883<br><br>Links<br><a href=\"http://royalshaadi.in\" target=\"_blank\">http://royalshaadi.in</a><br>",
           "text3": "<p style=\"text-align: start; \"><span style=\"text-align: center; font-size: 15px; line-height: 22px;\"><font color=\"#f1c050\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</font></span><b style=\"color: rgb(2, 117, 216); font-size: 13px; text-align: center; line-height: 1.5;\">&nbsp;<a href=\"Matrimonial#header1-0\" class=\"text-warning\">Back</a>&nbsp;</b><br></p>"
         },
         {
