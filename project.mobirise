@@ -313,7 +313,7 @@
           "form": {
             "action": "royalshaadisite@gmail.com",
             "alerts": {
-              "success": "Thanks for Your Response. . We will tuch with you later. \nRoyal Shaadi Team."
+              "success": "Thanks for Your Response. . We will tuch with you later. \nTeam Royal Shaadi.."
             },
             "fields": {
               "name": {
@@ -333,7 +333,7 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Message"
+                "customTitle": "Royal Shaadi Form"
               }
             }
           },
