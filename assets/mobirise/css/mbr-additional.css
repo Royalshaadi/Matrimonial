@@ -42,7 +42,7 @@
   text-align: left;
   font-size: 19px;
   font-family: 'Open Sans', sans-serif;
-  color: #fbfbfb;
+  color: #efdcb1;
 }
 #header4-1 H1 {
   text-align: center;
@@ -77,12 +77,12 @@
 }
 #dropdown-menu-6 .navbar,
 #dropdown-menu-6 .dropdown-menu {
-  background: #53acf9;
+  background: #1512df;
 }
 #dropdown-menu-6 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
 #dropdown-menu-6 .dropdown-menu a:hover,
 #dropdown-menu-6 .dropdown-menu a:focus {
-  background: #3fa2f8;
+  background: #1310cc;
 }
 #dropdown-menu-6 .navbar-toggler {
   color: #000000;
@@ -124,6 +124,7 @@
 }
 #form1-a .mbr-section-title P {
   font-size: 18px;
+  color: #abdbf2;
 }
 #contacts1-e SPAN {
   text-align: center;
