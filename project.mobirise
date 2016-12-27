@@ -13,7 +13,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/appicon-128x128-47.png",
     "noImageResize": "true",
     "cookiesAlert": "",
-    "google-analytics": "Welcome to Royal Shaadi",
+    "google-analytics": "Welcome to Royal Shaadi.",
     "publishType": "github",
     "publishPath": "@PROJECT_PATH@",
     "ftpLocation": "ftp://@:21",
@@ -204,7 +204,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/royalshaadi-logo-1.png",
+              "src": "@PROJECT_PATH@/assets/images/royalshaadi-1.000.logo.png",
               "class": "",
               "height": 128,
               "alt": "",
@@ -354,7 +354,7 @@
               "color": "#a2eca2",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "18px"
+              "font-size": "16px"
             },
             "STRONG": {
               "font-size": "17px",
@@ -364,7 +364,7 @@
           "_anchor": "contacts1-e",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
@@ -390,8 +390,8 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>\nPuthumaa &nbsp;Enterprises<br>\nPeringode Post, &nbsp;Koottanad<br>Palakkad Dt , &nbsp;Kerala &nbsp;St<br>INDIA - &nbsp;679 535<br><br>",
-          "text2": "<strong>Contacts</strong><br>\nEmail: info@royalshaadi.in<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br>Royalshaadisite@gmail.com<br>Phone: (0) 98461 04883<br><br>Links<br><a href=\"http://royalshaadi.in\" target=\"_blank\">http://royalshaadi.in</a><br>",
+          "text1": "<strong>Address</strong><br>\nPuthumaa &nbsp;Enterprises<br>\nPeringode Post, &nbsp;Koottanad<br>Palakkad Dt , &nbsp;Kerala &nbsp;St<br>INDIA - &nbsp;679 535<br><br>Customer Care: +91 98461 04883<br><br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: info@royalshaadi.in&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br>Royalshaadisite@gmail.com<br>Phone: &nbsp;<b>+</b>91 &nbsp;98461 04883<br><br>Links<br><a href=\"http://royalshaadi.in\" target=\"_blank\">http://royalshaadi.in</a><br>",
           "text3": "<p style=\"text-align: start; \"><span style=\"text-align: center; font-size: 15px; line-height: 22px;\"><font color=\"#f1c050\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</font></span><b style=\"color: rgb(2, 117, 216); font-size: 13px; text-align: center; line-height: 1.5;\">&nbsp;<a href=\"Matrimonial#header1-0\" class=\"text-warning\">Back</a>&nbsp;</b><br></p>"
         },
         {
