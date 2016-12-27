@@ -35,6 +35,9 @@
 #header1-0 P {
   color: #fbfbfb;
 }
+#header1-0 SPAN {
+  color: #eaf51a;
+}
 #header4-1 P {
   text-align: left;
   font-size: 19px;
@@ -94,7 +97,7 @@
 }
 #header1-7 I {
   color: #e6f117;
-  font-size: 20px;
+  font-size: 18px;
 }
 #header1-7 P {
   color: #fff8e0;

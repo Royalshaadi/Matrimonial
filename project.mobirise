@@ -60,15 +60,18 @@
             },
             "P": {
               "color": "#fbfbfb"
+            },
+            "SPAN": {
+              "color": "#eaf51a"
             }
           },
           "_anchor": "header1-0",
           "_params": {
             "parallax": false,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/8773954890-fcb15a43e5-b-1.jpg",
-            "bgColor": "#a41800",
-            "bgColorRadio": false,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/8773954890_fcb15a43e5_b_1.jpg",
+            "bgColor": "#f22300",
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -227,7 +230,7 @@
             },
             "I": {
               "color": "#e6f117",
-              "font-size": "20px"
+              "font-size": "18px"
             },
             "P": {
               "color": "#fff8e0",
@@ -242,7 +245,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/download1-2000x3571-52.jpg",
-            "bgColor": "#281010",
+            "bgColor": "#700404",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -258,7 +261,7 @@
             "showArrow": false
           },
           "title": "<br><div><br></div><div><br></div>",
-          "text": "<b><i>Legal Desclaimer</i><span style=\"font-style: italic;\">:</span></b><br><i><b>Abuse of Photos , Personal Data &amp; Franchisee Benifit &nbsp;Ideas in Royalshaadi.in will attract Legal action towards the abuser according to the IT act.<br>This Program Protected by Copyright Law. <br>Unauthorized &nbsp;Reproduction of this Program, or any Portion of it, may result severe Civil and Criminal Penalties, and will be prosecuted to the maximum extent possible under the law.</b></i><br>",
+          "text": "<b><i>Legal Desclaimer</i><span style=\"font-style: italic;\">:</span></b><br><i><b>Abuse of Photos , Personal Data &amp; Franchisee Benifit &nbsp;Ideas in Royalshaadi.in will attract Legal action towards the abuser according to the IT act. &nbsp;This Program Protected by Copyright Law. <br>Unauthorized &nbsp;Reproduction of this Program, or any Portion of it, may result severe Civil and Criminal Penalties, and will be prosecuted to the maximum extent possible under the law.</b></i><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"Matrimonial#header1-0\" data-toolbar=\"-mbrBtnMove\">&nbsp;Back&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"Matrimonial#header1-0\" data-toolbar=\"-mbrBtnMove\">@ Copyright 2015. All rights reserved at Royalshaadi.in</a> "
         },
         {
@@ -298,7 +301,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "bgColor": "#30362e",
+            "bgColor": "#19005b",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
