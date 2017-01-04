@@ -12,8 +12,6 @@
 
 
 
-
-
 #header1-0 H1 {
   color: #cdfa1a;
   font-size: 36px;
@@ -65,31 +63,6 @@
 }
 #header4-1 SPAN {
   font-size: 16px;
-}
-#dropdown-menu-6 .hide-buttons [data-button] {
-  display: none !important;
-}
-#dropdown-menu-6 .nav .link,
-#dropdown-menu-6 .dropdown-item {
-  font-size: 1em;
-  color: #000000;
-  font-family: 'Oswald', sans-serif;
-}
-#dropdown-menu-6 .navbar,
-#dropdown-menu-6 .dropdown-menu {
-  background: #1512df;
-}
-#dropdown-menu-6 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
-#dropdown-menu-6 .dropdown-menu a:hover,
-#dropdown-menu-6 .dropdown-menu a:focus {
-  background: #1310cc;
-}
-#dropdown-menu-6 .navbar-toggler {
-  color: #000000;
-}
-#dropdown-menu-6 .btn {
-  font-family: 'Oswald', sans-serif;
-  font-size: 14px;
 }
 #header1-7 .btn {
   font-family: 'Oswald', sans-serif;
