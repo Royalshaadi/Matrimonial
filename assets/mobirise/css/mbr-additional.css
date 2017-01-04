@@ -32,9 +32,11 @@
 }
 #header1-0 P {
   color: #fbfbfb;
+  text-align: center;
 }
 #header1-0 SPAN {
   color: #eaf51a;
+  text-align: right;
 }
 #header4-1 P {
   text-align: left;
@@ -78,6 +80,8 @@
 }
 #header1-7 B {
   color: #fff8e0;
+  font-size: 18px;
+  text-align: left;
 }
 #form1-a .mbr-section-title {
   color: #d5f4f0;

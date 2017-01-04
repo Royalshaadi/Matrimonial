@@ -61,10 +61,12 @@
               "font-size": "32px"
             },
             "P": {
-              "color": "#fbfbfb"
+              "color": "#fbfbfb",
+              "text-align": "center"
             },
             "SPAN": {
-              "color": "#eaf51a"
+              "color": "#eaf51a",
+              "text-align": "right"
             }
           },
           "_anchor": "header1-0",
@@ -177,7 +179,9 @@
               "text-align": "left"
             },
             "B": {
-              "color": "#fff8e0"
+              "color": "#fff8e0",
+              "font-size": "18px",
+              "text-align": "left"
             }
           },
           "_anchor": "header1-7",
@@ -201,8 +205,8 @@
             "showArrow": false
           },
           "title": "<br><div><br></div><div><br></div>",
-          "text": "<b><i>Legal Desclaimer</i><span style=\"font-style: italic;\">:</span></b><br><i><b>Abuse of Photos , Personal Data &amp; Franchisee Benifit &nbsp;Ideas in Royalshaadi.in will attract Legal action towards the abuser according to the IT act. &nbsp;This Program Protected by Copyright Law. &nbsp;Unauthorized &nbsp;Reproduction of this Program, or any Portion of it, may result severe Civil and Criminal Penalties, and will be prosecuted to the maximum extent possible under the law.</b></i><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"Matrimonial#header1-0\" data-toolbar=\"-mbrBtnMove\">&nbsp;Back&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"Matrimonial#header1-0\" data-toolbar=\"-mbrBtnMove\">@ Copyright 2015. All rights reserved at Royalshaadi.in</a> "
+          "text": "<b><i>Legal Desclaimer</i><span style=\"font-style: italic;\">:</span></b><br><i><b>Abuse of Photos , Personal Data &amp; Franchisee Benifit &nbsp;Ideas in Royalshaadi.in will attract Legal action towards the abuser according to the IT act. &nbsp;This Program Protected by Copyright Law. &nbsp;Unauthorized &nbsp;Reproduction of this Program, or any Portion of it, may result severe Civil and Criminal Penalties, and will be prosecuted to the maximum extent possible under the law.</b></i><br><i><b><br></b></i><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; @ Copyright 2015. All rights reserved at Royalshaadi.in</b><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"Matrimonial#header1-0\" data-toolbar=\"-mbrBtnMove\">&nbsp;Back&nbsp;</a>  "
         },
         {
           "alias": "purity/components",
@@ -238,7 +242,7 @@
           "_anchor": "form1-a",
           "_params": {
             "paddingTop": "4",
-            "paddingBottom": "1",
+            "paddingBottom": "4",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
@@ -304,8 +308,8 @@
           },
           "_anchor": "contacts1-e",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingTop": "4",
+            "paddingBottom": "4",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
