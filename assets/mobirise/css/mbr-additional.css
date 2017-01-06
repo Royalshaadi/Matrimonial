@@ -72,7 +72,7 @@
 }
 #header1-7 I {
   color: #e6f117;
-  font-size: 18px;
+  font-size: 16px;
 }
 #header1-7 P {
   color: #fff8e0;
@@ -80,7 +80,7 @@
 }
 #header1-7 B {
   color: #fff8e0;
-  font-size: 18px;
+  font-size: 16px;
   text-align: left;
 }
 #form1-a .mbr-section-title {
@@ -111,11 +111,18 @@
 #contacts1-e P {
   color: #a2eca2;
   font-family: 'Oswald', sans-serif;
-  font-size: 16px;
+  font-size: 15px;
+  text-align: left;
 }
 #contacts1-e STRONG {
-  font-size: 17px;
-  color: #fbf2be;
+  font-size: 16px;
+  color: #0275d8;
+  text-align: right;
+}
+#contacts1-e B {
+  color: #f1c050;
+  font-size: 15px;
+  text-align: left;
 }
 #footer1-10 P {
   text-align: center;
