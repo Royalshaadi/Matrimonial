@@ -1,5 +1,4 @@
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
 
 
@@ -9,129 +8,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-#header1-0 H1 {
-  color: #cdfa1a;
-  font-size: 36px;
-  font-family: 'Oswald', sans-serif;
-  text-align: center;
-}
-#header1-0 I {
-  color: #f2f1ed;
-}
-#header1-0 .btn {
-  font-family: 'Oswald', sans-serif;
-  font-size: 14px;
-}
-#header1-0 B {
-  color: #edf91a;
-  font-family: 'Oswald', sans-serif;
-  font-size: 32px;
-}
-#header1-0 P {
-  color: #fbfbfb;
-  text-align: center;
-}
-#header1-0 SPAN {
-  color: #eaf51a;
-  text-align: right;
-}
-#header4-1 P {
-  text-align: left;
-  font-size: 19px;
-  font-family: 'Open Sans', sans-serif;
-  color: #efdcb1;
-}
-#header4-1 H1 {
-  text-align: center;
-}
-#header4-1 I {
-  text-align: right;
-  font-size: 23px;
-  font-family: 'Oswald', sans-serif;
-  color: #fff8e0;
-}
-#header4-1 .btn {
-  font-family: 'Oswald', sans-serif;
-  font-size: 14px;
-}
-#header4-1 B {
-  color: #fff8e0;
-  font-size: 16px;
-  font-family: 'Oswald', sans-serif;
-  text-align: center;
-}
-#header4-1 SPAN {
-  font-size: 16px;
-}
-#header1-7 .btn {
-  font-family: 'Oswald', sans-serif;
-  font-size: 12px;
-}
-#header1-7 I {
-  color: #e6f117;
-  font-size: 16px;
-}
-#header1-7 P {
-  color: #fff8e0;
-  text-align: left;
-}
-#header1-7 B {
-  color: #fff8e0;
-  font-size: 16px;
-  text-align: left;
-}
-#form1-a .mbr-section-title {
-  color: #d5f4f0;
-  text-align: right;
-  font-family: 'Oswald', sans-serif;
-  font-size: 18px;
-}
-#form1-a .btn {
-  font-family: 'Oswald', sans-serif;
-  font-size: 13px;
-}
-#form1-a .mbr-section-title B {
-  text-align: right;
-  font-family: 'Oswald', sans-serif;
-  font-size: 17px;
-  color: #fbf2be;
-}
-#form1-a .mbr-section-title P {
-  font-size: 18px;
-  color: #abdbf2;
-}
-#contacts1-e SPAN {
-  text-align: center;
-  font-size: 13px;
-  color: #0275d8;
-}
-#contacts1-e P {
-  color: #a2eca2;
-  font-family: 'Oswald', sans-serif;
-  font-size: 15px;
-  text-align: left;
-}
-#contacts1-e STRONG {
-  font-size: 16px;
-  color: #0275d8;
-  text-align: right;
-}
-#contacts1-e B {
-  color: #f1c050;
-  font-size: 15px;
-  text-align: left;
-}
 #footer1-10 P {
   text-align: center;
   font-size: 14px;
@@ -198,4 +74,10 @@
 #contacts3-1x .btn {
   font-size: 12px;
   font-family: 'Oswald', sans-serif;
+}
+#social-buttons1-1y .mbr-section-title {
+  font-size: 18px;
+  font-family: 'Oswald', sans-serif;
+  text-align: right;
+  color: #f1c050;
 }
