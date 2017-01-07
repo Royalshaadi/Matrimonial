@@ -24,7 +24,7 @@
 }
 #msg-box5-1o .mbr-section-title {
   font-size: 19px;
-  color: #000000;
+  color: #fbf2be;
   font-family: 'Oswald', sans-serif;
 }
 #content5-1t .mbr-section-title {
@@ -45,15 +45,16 @@
 }
 #msg-box1-1v DIV {
   color: #fbf2be;
-  font-size: 17px;
+  font-size: 18px;
   font-family: 'Roboto', sans-serif;
+  text-align: left;
 }
 #msg-box1-1v .btn {
   font-size: 12px;
   font-family: 'Oswald', sans-serif;
 }
 #msg-box1-1v B {
-  font-size: 21px;
+  font-size: 20px;
   font-family: 'Lato', sans-serif;
 }
 #form1-1w .mbr-section-title {
