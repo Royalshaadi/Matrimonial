@@ -298,11 +298,13 @@
             },
             "I": {
               "font-size": "19px",
-              "color": "#f1c050",
-              "text-align": "center"
+              "color": "#fbf2be",
+              "text-align": "center",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
             "P": {
-              "font-size": "18px",
+              "font-size": "19px",
               "text-align": "left"
             },
             "DIV": {
@@ -312,7 +314,8 @@
               "font-size": "13px"
             },
             "B": {
-              "font-size": "20px"
+              "font-size": "16px",
+              "color": "#fff8e0"
             }
           },
           "_anchor": "contacts3-5",

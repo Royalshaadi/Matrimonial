@@ -9,6 +9,7 @@
 
 
 
+
 #msg-box4-0 .btn {
   font-size: 13px;
   font-family: 'Oswald', sans-serif;
@@ -84,11 +85,12 @@
 }
 #contacts3-5 I {
   font-size: 19px;
-  color: #f1c050;
+  color: #fbf2be;
   text-align: center;
+  font-family: 'Oswald', sans-serif;
 }
 #contacts3-5 P {
-  font-size: 18px;
+  font-size: 19px;
   text-align: left;
 }
 #contacts3-5 DIV {
@@ -98,7 +100,8 @@
   font-size: 13px;
 }
 #contacts3-5 B {
-  font-size: 20px;
+  font-size: 16px;
+  color: #fff8e0;
 }
 #social-buttons1-7 .mbr-section-title {
   font-size: 14px;
