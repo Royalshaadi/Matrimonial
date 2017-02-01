@@ -30,6 +30,7 @@
 #msg-box3-1 .lead P {
   text-align: left;
   color: #fff8e0;
+  font-size: 23px;
 }
 #msg-box3-1 .btn {
   font-size: 11px;
@@ -47,7 +48,7 @@
 }
 #msg-box3-3 .lead P {
   font-family: 'Slabo 27px', serif;
-  font-size: 14px;
+  font-size: 17px;
   color: #fff8e0;
   text-align: left;
 }
@@ -83,7 +84,7 @@
 }
 #contacts3-5 I {
   font-size: 19px;
-  color: #2e0908;
+  color: #f1c050;
   text-align: center;
 }
 #contacts3-5 P {
