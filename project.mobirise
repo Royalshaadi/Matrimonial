@@ -310,13 +310,17 @@
               "text-align": "left"
             },
             "DIV": {
-              "font-size": "18px"
+              "font-size": "18px",
+              "color": "#fbf2be"
             },
             ".btn": {
               "font-size": "13px"
             },
             "B": {
               "font-size": "16px",
+              "color": "#fbf2be"
+            },
+            "SPAN": {
               "color": "#fbf2be"
             }
           },
