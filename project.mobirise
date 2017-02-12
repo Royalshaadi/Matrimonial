@@ -39,13 +39,15 @@
           "_name": "msg-box4",
           "_styles": {
             ".btn": {
-              "font-size": "13px",
+              "font-size": "15px",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
             ".mbr-section-title": {
-              "color": "#fff8e0",
-              "font-size": "21px"
+              "color": "#071c2e",
+              "font-size": "25px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             }
           },
           "_anchor": "msg-box4-0",
@@ -55,7 +57,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "bgColor": "#0081f1",
+            "bgColor": "#00ff07",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -112,7 +114,7 @@
             ".lead P": {
               "text-align": "left",
               "color": "#fff8e0",
-              "font-size": "23px"
+              "font-size": "24px"
             },
             ".btn": {
               "font-size": "11px",
@@ -166,7 +168,7 @@
             ".lead P": {
               "font-family": "'Slabo 27px', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
-              "font-size": "17px",
+              "font-size": "19px",
               "color": "#fff8e0",
               "text-align": "left"
             },
@@ -176,7 +178,7 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
             ".mbr-section-title SPAN": {
-              "font-size": "22px",
+              "font-size": "16px",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             }
@@ -207,7 +209,7 @@
             "showText": true,
             "showButton": true
           },
-          "title": "<font color=\"#77f50e\"><span style=\"font-size: 14px; line-height: 15px;\"><b>Legal Desclaimer</b></span></font>",
+          "title": "<font color=\"#77f50e\"><span style=\"font-size: 14px; line-height: 15px;\"><b><i>Legal Desclaimer</i></b></span></font>",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p><span style=\"font-size: 1.25rem; line-height: 1.5;\">Abuse of Photos , Personal Data &amp; Franchisee Benifit Ideas in Royalshaadi.in will attract Legal action towards the abuser according to the IT act. This Program Protected by Copyright Law. Unauthorized Reproduction of this Program, or any Portion of it, may result severe Civil and Criminal Penalties, and will be prosecuted to the maximum extent possible under the law.</span></p><p><span style=\"line-height: 1.5;\">@ Copyright 2015. All rights reserved&nbsp;</span></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"Royal Shaadi #msg-box4-0\" data-toolbar=\"-mbrBtnMove\">Back</a>"
@@ -304,7 +306,7 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
             "P": {
-              "font-size": "19px",
+              "font-size": "20px",
               "text-align": "left"
             },
             "DIV": {
@@ -315,7 +317,7 @@
             },
             "B": {
               "font-size": "16px",
-              "color": "#fff8e0"
+              "color": "#fbf2be"
             }
           },
           "_anchor": "contacts3-5",
@@ -331,8 +333,8 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<b style=\"font-style: italic;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</b><b>Contact Us</b><br><strong><i>Address</i></strong><br><b>Puthumaa Enterprises</b><br>Peringode Post, Koottanad<br>Palakkad Dt , Kerala St<br>INDIA - 679 535<br>\n<strong><i>Contacts</i></strong><br>Email:&nbsp;Royalshaadisite@gmail.com&nbsp; <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; info@royalshaadi.in&nbsp;<br>Phone: +91 98461 04883<br>",
-          "text2": "<p><i><b>Customer Care</b></i><br></p><div><div>+91 &nbsp;98461 04883</div><div>E Mail : Royalshaadisite@gmail.com</div><div><p><b><i>Business Offer</i></b></p><p><a href=\"https://puthuma.github.io/Puthuma/Puthuma.html\" target=\"_blank\" class=\"text-primary\">Click Here</a></p><p><b><i>Link</i></b></p><p><a href=\"http://royalshaadi.in\" target=\"_blank\" class=\"text-primary\">Website</a></p></div></div><p></p>",
+          "text1": "<b style=\"font-style: italic;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</b><i><b> &nbsp;</b><b>Contact Us</b></i><br><b>Address</b><br><font color=\"#fbf2be\" size=\"3\"><span style=\"line-height: 24px;\"><b>Puthumaa Enterprises</b></span></font><br>Peringode Post, Koottanad<br>Palakkad Dt , Kerala St<br>INDIA - 679 535<br>Email ID:&nbsp;Royalshaadisite@gmail.com&nbsp; <br>&nbsp;info@royalshaadi.in&nbsp;<br>Phone: +91 98461 04883<br>",
+          "text2": "<p><b>Customer Care</b><br></p><div><div>+91 &nbsp;<b>98461 04883</b></div><div>E Mail : Royalshaadisite@gmail.com</div><div><p><b>Business Offer</b></p><p><a href=\"https://puthuma.github.io/Puthuma/Puthuma.html\" target=\"_blank\" class=\"text-warning\">Click Here</a></p><p><b>Link</b></p><p><a href=\"http://royalshaadi.in\" target=\"_blank\" class=\"text-warning\">Website</a></p></div></div><p></p>",
           "form": {
             "title": "MESSAGE",
             "action": "royalshaadisite@gmail.com",

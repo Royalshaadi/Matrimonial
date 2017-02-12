@@ -10,13 +10,15 @@
 
 
 
+
 #msg-box4-0 .btn {
-  font-size: 13px;
+  font-size: 15px;
   font-family: 'Oswald', sans-serif;
 }
 #msg-box4-0 .mbr-section-title {
-  color: #fff8e0;
-  font-size: 21px;
+  color: #071c2e;
+  font-size: 25px;
+  font-family: 'Oswald', sans-serif;
 }
 #msg-box3-1 .mbr-header .mbr-header__text {
   text-align: center;
@@ -31,7 +33,7 @@
 #msg-box3-1 .lead P {
   text-align: left;
   color: #fff8e0;
-  font-size: 23px;
+  font-size: 24px;
 }
 #msg-box3-1 .btn {
   font-size: 11px;
@@ -49,7 +51,7 @@
 }
 #msg-box3-3 .lead P {
   font-family: 'Slabo 27px', serif;
-  font-size: 17px;
+  font-size: 19px;
   color: #fff8e0;
   text-align: left;
 }
@@ -58,7 +60,7 @@
   font-family: 'Oswald', sans-serif;
 }
 #msg-box3-3 .mbr-section-title SPAN {
-  font-size: 22px;
+  font-size: 16px;
   font-family: 'Oswald', sans-serif;
 }
 #form1-4 .btn {
@@ -90,7 +92,7 @@
   font-family: 'Oswald', sans-serif;
 }
 #contacts3-5 P {
-  font-size: 19px;
+  font-size: 20px;
   text-align: left;
 }
 #contacts3-5 DIV {
@@ -101,7 +103,7 @@
 }
 #contacts3-5 B {
   font-size: 16px;
-  color: #fff8e0;
+  color: #fbf2be;
 }
 #social-buttons1-7 .mbr-section-title {
   font-size: 14px;
