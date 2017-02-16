@@ -1,4 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic);
 @import url(https://fonts.googleapis.com/css?family=Slabo+27px);
 
 
@@ -16,9 +17,9 @@
   font-family: 'Oswald', sans-serif;
 }
 #msg-box4-0 .mbr-section-title {
-  color: #071c2e;
+  color: #fbf2be;
   font-size: 25px;
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Playfair Display', sans-serif;
 }
 #msg-box3-1 .mbr-header .mbr-header__text {
   text-align: center;
@@ -86,13 +87,13 @@
   text-align: center;
 }
 #contacts3-5 I {
-  font-size: 19px;
+  font-size: 14px;
   color: #fbf2be;
   text-align: center;
   font-family: 'Oswald', sans-serif;
 }
 #contacts3-5 P {
-  font-size: 20px;
+  font-size: 18px;
   text-align: left;
 }
 #contacts3-5 DIV {
@@ -115,4 +116,5 @@
 }
 #footer1-8 P {
   text-align: center;
+  font-size: 13px;
 }
